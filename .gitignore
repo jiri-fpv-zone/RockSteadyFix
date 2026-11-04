@@ -1,0 +1,10 @@
+.venv/
+build/
+dist/
+release/
+__pycache__/
+*.pyc
+*.spec
+*.mov
+*.MP4
+*.mp4

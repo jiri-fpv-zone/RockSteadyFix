@@ -1,0 +1,6 @@
+numpy==2.5.4
+opencv-python-headless==5.0.0.93
+av==19.0.1
+customtkinter==6.0.0
+tkinterdnd2==0.6.4
+pillow==13.0.0
